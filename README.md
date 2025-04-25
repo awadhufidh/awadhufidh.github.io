@@ -119,6 +119,6 @@ Very popular with photographers and botanists.
 
 
 </p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Sanaa_Yemen_old_city.jpg" alt="Old City of Sana'a" width="600">
+<img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-in-hawaii.png">
     </body>
 </html>
