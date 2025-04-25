@@ -120,6 +120,5 @@ Very popular with photographers and botanists.
 
 </p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sanaa_Yemen_old_city.jpg/640px-Sanaa_Yemen_old_city.jpg" alt="Old City of Sana'a">
-  </section>
     </body>
 </html>
