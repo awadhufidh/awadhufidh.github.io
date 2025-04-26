@@ -120,5 +120,5 @@ Very popular with photographers and botanists.
 
 </p>
 <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-in-hawaii.png">
-    </body>
+   <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-in-hawaii.png" alt="A beautiful and serene landscape representing the spirit of Sana'a, with calm skies, peaceful surroundings, and natural beauty."> </body>
 </html>
